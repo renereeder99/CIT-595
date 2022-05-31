@@ -1,2 +1,0 @@
-I hope to become more familiar with C and C++ programming concepts in this class. 
-My experience setting up the Git repository and docker were was quite smooth and I feel like I learned a lot. I am excited to start using Github.
